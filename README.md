@@ -17,8 +17,9 @@ B.Tech CSE (AI/ML) student @ UPES Dehradun
 | [100 Days of Code](https://github.com/vedantchouhan/100-days-of-code) | Daily coding practice in C | C |
 
 ## 📊 GitHub Stats
-![Vedant's GitHub stats]![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=dark)
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=dark&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchouhan&layout=compact&theme=dark)
 ## 🎯 Currently
 - 🔭 Working on: Chess Win Predictor
 - 🌱 Learning: Machine Learning, pandas, numpy
