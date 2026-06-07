@@ -17,7 +17,15 @@ B.Tech CSE (AI/ML) student @ UPES Dehradun
 | [100 Days of Code](https://github.com/vedantchouhan/100-days-of-code) | Daily coding practice in C | C |
 
 ## 📊 GitHub Stats
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=vedantchouhan&color=blue&style=flat)
+
+| Stat | Value |
+|---|---|
+| 🔥 Contributions (2026) | 211 |
+| 📁 Repositories | 4 |
+| ⭐ Stars | 2 |
+| 🌱 Main Languages | Python, C |
 
 
 ## 🎯 Currently
