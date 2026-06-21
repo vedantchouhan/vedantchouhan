@@ -16,7 +16,7 @@ Building real things with real data. C for fundamentals, Python for ML, deployed
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📌 Proof of Work — not just goals
+## 📌 Proof of Work 
 
 | What | Evidence |
 |---|---|
@@ -34,7 +34,7 @@ Building real things with real data. C for fundamentals, Python for ML, deployed
 
 ## 🎯 Currently
 - 🔭 Maintaining: Chess Win Predictor — [live](https://chess-win-predictor.onrender.com)
-- 🌱 Learning: C++, Object-Oriented Programming
+- 🌱 Enhancing: C++, Object-Oriented Programming
 - ♟️ Chess — Highest 1639 Rapid | 1705 Daily on chess.com
 
 ## 📫 Connect
