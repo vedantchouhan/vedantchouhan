@@ -1,5 +1,11 @@
 # Hi, I'm Vedant Chouhan
-B.Tech CSE (AI/ML) student @ UPES Dehradun
+
+**B.Tech CSE (AI/ML) @ UPES Dehradun**
+Building real things with real data. C for fundamentals, Python for ML, deployed not just demoed.
+
+![](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchouhan&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vedantchouhan&theme=dark&hide_border=true)
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -7,33 +13,31 @@ B.Tech CSE (AI/ML) student @ UPES Dehradun
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Projects
-| Project | Description | Tech |
-|---|---|---|
-| [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) | ML model trained on 4,716 of my real chess.com games, deployed as a live web app — 79.1% accuracy | Python, Streamlit, scikit-learn, pandas |
-| [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code) | Daily DSA practice in C — linked list, stack, queue, trees, graphs | C |
-| [100 Days of Code](https://github.com/vedantchouhan/100-days-of-code) | Daily coding practice in C | C |
+## 📌 Proof of Work — not just goals
 
-## 📊 GitHub Stats
-![](https://komarev.com/ghpvc/?username=vedantchouhan&color=blue&style=flat)
-
-| Stat | Value |
+| What | Evidence |
 |---|---|
-| 🔥 Contributions (2026) | 215+ |
-| 📁 Repositories | 4 |
-| ⭐ Stars | 3 |
-| 🌱 Main Languages | C, Python |
+| Built and deployed a real ML product | [Live app](https://chess-win-predictor.onrender.com) trained on 4,716 personal games, 79.1% accuracy |
+| Iterated like an engineer, not a tutorial-follower | 73.4% → 76.2% → 78.4% → 79.1% through feature engineering and tuning |
+| DSA depth in C, not just Python wrappers | Implemented SLL, DLL, Circular lists, Stack, Queue, BST, AVL, Red-Black Trees, B-Trees, Dijkstra's, MST from scratch |
+| Active in structured competitive practice | UPES ACM 100 Days of Code 2026 — daily DSA + LeetCode |
+
+## 🚀 Featured Projects
+| Project | What it actually shows | Tech |
+|---|---|---|
+| [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) | End-to-end ML: data pipeline → model iteration → deployed live app | Python, Streamlit, scikit-learn, pandas |
+| [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code) | Linked lists, stacks, queues, trees, graphs — built from scratch in C | C |
+| [100 Days of Code](https://github.com/vedantchouhan/100-days-of-code) | Foundational C — arrays, pointers, file handling | C |
 
 ## 🎯 Currently
-- 🔭 Built: Chess Win Predictor — live at [chess-win-predictor.onrender.com](https://chess-win-predictor.onrender.com)
-- 🌱 Learning: C++, Object-Oriented Programming, Machine Learning
-- 🎓 Specializing in AI/ML from 2nd year
-- ♟️ Chess player — Highest 1639 Rapid | 1705 Daily
+- 🔭 Maintaining: Chess Win Predictor — [live](https://chess-win-predictor.onrender.com)
+- 🌱 Learning: C++, Object-Oriented Programming
+- ♟️ Chess — Highest 1639 Rapid | 1705 Daily on chess.com
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vedant.chouhan.7737/)
 [![Chess.com](https://img.shields.io/badge/Chess.com-81b64c?style=flat&logo=chess.com&logoColor=white)](https://www.chess.com/member/vedantchouhan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chouhanvedant84@gmail.com)
