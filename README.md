@@ -1,14 +1,19 @@
 <div align="center">
 
-# Vedant Chouhan
-B.Tech CSE (AI/ML) — UPES Dehradun
+# Hi, I'm Vedant Chouhan 👋
+**B.Tech CSE (AI/ML) · UPES Dehradun**
+
+Building real things with real data — C for fundamentals, Python for ML, shipped not just demoed.
 
 </div>
 
 ![](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchouhan&layout=compact&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vedantchouhan&theme=dark&hide_border=true)
 
-## Tech Stack
+![](https://leetcard.jacoblin.cool/vedantchouhan?theme=dark&font=Space%20Mono&extension=activity)
+
+## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,24 +22,33 @@ B.Tech CSE (AI/ML) — UPES Dehradun
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projects
+## 🚀 Featured Projects
 
-**[Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor)** — [Live app](https://chess-win-predictor.onrender.com)
-ML model trained on 4,716 personal chess.com games, predicting win probability at 79.1% accuracy. Built a full pipeline from data collection through deployment, improving accuracy from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
+### [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
+ML model trained on 4,716 of my real chess.com games, predicting win probability at **79.1% accuracy**. Full pipeline from data collection to deployment — improved from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
 `Python` `Streamlit` `scikit-learn` `pandas`
 
-**[DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code)**
-Linked lists, stacks, queues, trees, and graphs implemented from scratch in C.
+### [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code)
+Linked lists, stacks, queues, trees, and graphs — implemented from scratch in C.
 `C`
 
-**[100 Days of Code](https://github.com/vedantchouhan/100-days-of-code)**
+### [100 Days of Code](https://github.com/vedantchouhan/100-days-of-code)
 Foundational C — arrays, pointers, file handling.
 `C`
 
-## Currently
-- Maintaining the Chess Win Predictor
-- Learning C++ and Object-Oriented Programming
-- Solving DSA problems daily through UPES ACM's 100 Days of Code 2026
+## 🎯 Currently
+- 🔭 Maintaining the Chess Win Predictor
+- 🌱 Learning C++ and Object-Oriented Programming
+- ♟️ Solving DSA daily — UPES ACM 100 Days of Code 2026 | Highest 1639 Rapid on chess.com
 
-## Links
-[LinkedIn](https://www.linkedin.com/in/vedantchouhan019/) · [LeetCode](https://leetcode.com/u/vedantchouhan) · [Chess.com](https://www.chess.com/member/vedantchouhan) · [Email](mailto:chouhanvedant84@gmail.com)
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/vedantchouhan)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81b64c?style=flat&logo=chess.com&logoColor=white)](https://www.chess.com/member/vedantchouhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chouhanvedant84@gmail.com)
+
+<div align="center">
+
+⭐ Star [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) if you find it interesting
+
+</div>
