@@ -25,11 +25,11 @@ Building real things with real data — C for fundamentals, Python for ML, shipp
 ## 🚀 Featured Projects
 
 ### [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
-ML model trained on 4,716 of my real chess.com games, predicting win probability at **79.1% accuracy**. Full pipeline from data collection to deployment — improved from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
-`Python` `Streamlit` `scikit-learn` `pandas`
+ML model trained on 4,716 of my real chess.com games, predicting win probability at **79.1% accuracy**. Full pipeline from data collection to deployment which is improved from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
+`Python` `Streamlit` `scikit-learn` `pandas` `ML`
 
 ### [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code)
-Linked lists, stacks, queues, trees, and graphs — implemented from scratch in C.
+Linked lists, stacks, queues, trees, and graphs which are implemented from scratch in C.
 `C`
 
 ### [100 Days of Code](https://github.com/vedantchouhan/100-days-of-code)
@@ -37,9 +37,9 @@ Foundational C — arrays, pointers, file handling.
 `C`
 
 ## 🎯 Currently
-- 🔭 Maintaining the Chess Win Predictor
-- 🌱 Learning C++ and Object-Oriented Programming
-- ♟️ Solving DSA daily — UPES ACM 100 Days of Code 2026 | Highest 1639 Rapid on chess.com
+- 🔭 Maintaining the Chess Win Predictor.
+- 🌱 Learning numpy and neural networks and Object-Oriented Programming(java).
+- ♟️ Solving DSA problems daily — UPES ACM 100 Days of Code 2026.
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
