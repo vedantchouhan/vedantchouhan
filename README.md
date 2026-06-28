@@ -5,13 +5,37 @@
 
 Building real things with real data — C for fundamentals, Python for ML, shipped not just demoed.
 
-</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
 
 ![](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+</td>
+<td>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchouhan&layout=compact&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedantchouhan&theme=dark&hide_border=true)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![](https://streak-stats.demolab.com?user=vedantchouhan&theme=dark&hide_border=true)
+
+</td>
+<td>
 
 ![](https://leetcard.jacoblin.cool/vedantchouhan?theme=dark&font=Space%20Mono&extension=activity)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
