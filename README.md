@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Vedant Chouhan 👋
+# Hi, I'm Vedant Chouhan 
 **B.Tech CSE (AI/ML) · UPES Dehradun**
 
-Building real things with real data — C for fundamentals, Python for ML, shipped not just demoed.
+Building real things with real data- C/C++ for fundamentals, Python for ML Projects.
 
 
 <div align="center">
@@ -63,7 +63,7 @@ Foundational C — arrays, pointers, file handling.
 ## 🎯 Currently
 - 🔭 Maintaining the Chess Win Predictor.
 - 🌱 Learning numpy and neural networks and Object-Oriented Programming(java).
-- ♟️ Solving DSA problems daily — UPES ACM 100 Days of Code 2026.
+- ♟️ Solving DSA problems at UPES ACM 100 Days of Code 2026.
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
