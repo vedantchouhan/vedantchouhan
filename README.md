@@ -1,26 +1,16 @@
+
 <div align="center">
 
-# Hi, I'm Vedant Chouhan 
+# Hi, I'm Vedant Chouhan 👋
+
 **B.Tech CSE (AI/ML) · UPES Dehradun**
 
 Building real things with real data- C/C++ for fundamentals, Python for ML Projects.
 
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
 ![](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-</td>
-<td>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchouhan&layout=compact&theme=dark&hide_border=true)
 
-</td>
-</tr>
+<table>
 <tr>
 <td>
 
@@ -49,8 +39,8 @@ Building real things with real data- C/C++ for fundamentals, Python for ML Proje
 ## 🚀 Featured Projects
 
 ### [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
-ML model trained on 4,716 of my real chess.com games, predicting win probability at **79.1% accuracy**. Full pipeline from data collection to deployment which is improved from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
-`Python` `Streamlit` `scikit-learn` `pandas` `ML`
+ML model trained on 4,716 of my real chess.com games, predicting win probability at **79.1% accuracy**. Full pipeline from data collection to deployment and improved from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
+`Python` `Streamlit` `scikit-learn` `pandas`
 
 ### [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code)
 Linked lists, stacks, queues, trees, and graphs which are implemented from scratch in C.
@@ -62,17 +52,11 @@ Foundational C — arrays, pointers, file handling.
 
 ## 🎯 Currently
 - 🔭 Maintaining the Chess Win Predictor.
-- 🌱 Learning numpy and neural networks and Object-Oriented Programming(java).
-- ♟️ Solving DSA problems at UPES ACM 100 Days of Code 2026.
+- 🌱 Learning NumPy, Deep Learning and Neural Networks.
+- ♟️ Solving DSA problems daily from UPES ACM 100 Days of Code 2026.
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/vedantchouhan)
-[![Chess.com](https://img.shields.io/badge/Chess.com-81b64c?style=flat&logo=chess.com&logoColor=white)](https://www.chess.com/member/vedantchouhan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_vedant.tt_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vedant.chouhan.7737/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chouhanvedant84@gmail.com)
-
-<div align="center">
-
-⭐ Star [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) if you find it interesting
-
-</div>
