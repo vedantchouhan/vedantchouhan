@@ -38,6 +38,10 @@ Building real things with real data- C/C++ for fundamentals, Python for ML Proje
 
 ## 🚀 Featured Projects
 
+### [GitHub Activity Generator](https://github.com/vedantchouhan/github-activity-generator)
+CLI tool to generate GitHub commit activity for any date range. Customize commits per day, date range, and commit messages — pushes directly to your GitHub repo.
+`Python` `Git` `CLI`
+
 ### [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
 ML model trained on 4,716 of my real chess.com games, predicting win probability at **79.1% accuracy**. Full pipeline from data collection to deployment and improved from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
 `Python` `Streamlit` `scikit-learn` `pandas`
