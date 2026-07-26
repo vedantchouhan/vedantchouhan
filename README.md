@@ -54,15 +54,14 @@ ML model trained on 4,716 of my real chess.com games, predicting win probability
 Linked lists, stacks, queues, trees, and graphs which are implemented from scratch in C.
 `C`
 
-### [100 Days of Code](https://github.com/vedantchouhan/100-days-of-code)
-Foundational C — arrays, pointers, file handling.
-`C`
 
 ## 🎯 Currently
-- 🔭 Maintaining the Chess Win Predictor.
-- 🌱 Learning NumPy, Deep Learning and Neural Networks.
-- ♟️ Solving DSA problems daily from UPES ACM 100 Days of Code 2026.
-
+- 🛠️ Building Hello Friend — a free mental health browser extension
+- 🌱 Learning NumPy, Deep Learning and Neural Networks
+- ♟️ Solving DSA problems daily — UPES ACM 100 Days of Code 2026
+- 🤖 Planning ContentShield AI — custom trained vision model for content detection
+- 🎬 Planning CineMatch — movie and series comparison and recommendation platform
+- 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_vedant.tt_/)
