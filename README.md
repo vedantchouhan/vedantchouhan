@@ -38,6 +38,10 @@ Building real things with real data- C/C++ for fundamentals, Python for ML Proje
 
 ## 🚀 Featured Projects
 
+### [Hello Friend](https://github.com/vedantchouhan/hello-friend)
+A free, minimal browser extension that shows your own words back to you at the right moment. 3-layer detection — domain blocklist, search query monitoring, and on-device AI. No ads. No data collected. Built for real people with real struggles.
+`JavaScript` `Chrome Extension` `On-Device AI` `Mental Health`
+
 ### [GitHub Activity Generator](https://github.com/vedantchouhan/github-activity-generator)
 CLI tool to generate GitHub commit activity for any date range. Customize commits per day, date range, and commit messages — pushes directly to your GitHub repo.
 `Python` `Git` `CLI`
