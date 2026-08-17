@@ -27,10 +27,7 @@
 
 ### 🏙️ 3D Contribution Skyline
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedantchouhan/vedantchouhan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile Skyline" width="90%" />
-</p>
-
+![3D GitHub Profile Skyline](https://github.com/vedantchouhan/vedantchouhan/blob/main/profile-3d-contrib/profile-season-animate.svg?raw=true)
 ---
 
 ## 🛠️ Tech Stack
