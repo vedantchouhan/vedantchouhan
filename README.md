@@ -23,6 +23,16 @@
   <img src="https://leetcard.jacoblin.cool/vedantchouhan?theme=dark&font=Space%20Mono&extension=activity" height="150" alt="LeetCode Stats" />
 </p>
 
+---
+
+### 🐍 Contribution Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedantchouhan/vedantchouhan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedantchouhan/vedantchouhan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vedantchouhan/vedantchouhan/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 ---
