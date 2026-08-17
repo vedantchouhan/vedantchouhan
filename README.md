@@ -27,7 +27,12 @@
 
 ### 🏙️ 3D Contribution Skyline
 
-![3D GitHub Profile Skyline](https://github.com/vedantchouhan/vedantchouhan/blob/main/profile-3d-contrib/profile-season-animate.svg?raw=true)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Profile Skyline" width="90%" />
+</p>
+
+</div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -54,28 +59,28 @@
 
 ### 📦 [GitHub Activity Generator](https://github.com/vedantchouhan/github-activity-generator) · [![PyPI](https://img.shields.io/pypi/v/github-activity-generator?color=blue)](https://pypi.org/project/github-activity-generator/)
 A published CLI tool to automate and simulate realistic GitHub commit activity across custom date ranges. Supports multi-repository targeting, custom commit frequency patterns (uniform, weekday, burst, natural), dry-run previews, and zero-prompt JSON configs.
-- **Install:** `pip install github-activity-generator`
-- `Python` `Git` `CLI` `Packaging / PyPI`
+* **Install:** `pip install github-activity-generator`
+* `Python` `Git` `CLI` `Packaging / PyPI`
   
 ### ♟️ [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
 End-to-end machine learning application trained on **4,716 real games from my personal Chess.com history**. Built a complete pipeline covering ETL, feature engineering, and hyperparameter tuning to improve prediction accuracy from **73.4% to 79.1%**.
-- `Python` `Streamlit` `scikit-learn` `pandas` `Render`
+* `Python` `Streamlit` `scikit-learn` `pandas` `Render`
 
 ### 🛡️ [Hello Friend](https://github.com/vedantchouhan/hello-friend)
 A lightweight privacy-focused browser extension providing contextual interventions. Features a 3-layer detection architecture: domain blocklist, real-time search query analysis, and lightweight on-device AI. Zero telemetry or external data collection.
-- `JavaScript` `Chrome Extension API` `On-Device AI` `Privacy`
+* `JavaScript` `Chrome Extension API` `On-Device AI` `Privacy`
 
 ### ⚡ [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code)
 Zero-dependency, from-scratch implementations of core data structures and algorithms in C, including dynamic linked lists, stacks, queues, binary search trees, and graph traversal routines.
-- `C` `Memory Management` `Algorithms` `Data Structures`
+* `C` `Memory Management` `Algorithms` `Data Structures`
 
 ---
 
 ## 🎯 Current Focus & Roadmap
 
-- 🧠 **Machine Learning:** Deepening Neural Network architectures, PyTorch, and Computer Vision.
-- 🛡️ **ContentShield AI:** Developing a custom-trained vision classifier for automated content moderation.
-- 🎬 **CineMatch:** Building a vector-similarity movie and series recommendation engine.
+* 🧠 **Machine Learning:** Deepening Neural Network architectures, PyTorch, and Computer Vision.
+* 🛡️ **ContentShield AI:** Developing a custom-trained vision classifier for automated content moderation.
+* 🎬 **CineMatch:** Building a vector-similarity movie and series recommendation engine.
 
 ---
 
