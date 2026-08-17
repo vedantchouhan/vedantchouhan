@@ -1,68 +1,84 @@
-
 <div align="center">
 
 # Hi, I'm Vedant Chouhan 👋
 
-**B.Tech CSE (AI/ML) · UPES Dehradun**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(AI%2FML)+%C2%B7+UPES;ML+Pipelines+%2B+Data+Science;C%2FC%2B%2B+Fundamentals+%2B+Algorithms;Published+PyPI+Author+%2B+Open+Source" alt="Typing SVG" />
+</a>
 
-Building real things with real data- C/C++ for fundamentals, Python for ML Projects.
+<p align="center">
+  <em>Building practical systems with real-world data — low-level fundamentals in C/C++, scalable ML in Python.</em>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=vedantchouhan&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantchouhan&layout=compact&theme=dark&hide_border=true)
+[![PyPI Version](https://img.shields.io/pypi/v/github-activity-generator?color=blue&label=PyPI%20Package)](https://pypi.org/project/github-activity-generator/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chouhanvedant84@gmail.com)
 
-<table>
-<tr>
-<td>
+---
 
-![](https://streak-stats.demolab.com?user=vedantchouhan&theme=dark&hide_border=true)
+### 📊 GitHub & Problem-Solving Stats
 
-</td>
-<td>
-
-![](https://leetcard.jacoblin.cool/vedantchouhan?theme=dark&font=Space%20Mono&extension=activity)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vedantchouhan&theme=dark&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://leetcard.jacoblin.cool/vedantchouhan?theme=dark&font=Space%20Mono&extension=activity" height="150" alt="LeetCode Stats" />
+</p>
 
 </div>
 
+---
+
 ## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Languages & Fundamentals**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Machine Learning & Data Science**  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Deployment & Tools**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+
+---
 
 ## 🚀 Featured Projects
 
-### [Hello Friend](https://github.com/vedantchouhan/hello-friend)
-A free, minimal browser extension that shows your own words back to you at the right moment. 3-layer detection — domain blocklist, search query monitoring, and on-device AI. No ads. No data collected. Built for real people with real struggles.
-`JavaScript` `Chrome Extension` `On-Device AI` `Mental Health`
-
-### [GitHub Activity Generator](https://github.com/vedantchouhan/github-activity-generator)
-CLI tool to generate GitHub commit activity for any date range. Customize commits per day, date range, and commit messages — pushes directly to your GitHub repo.
-`Python` `Git` `CLI`
-
-### [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
-ML model trained on 4,716 of my real chess.com games, predicting win probability at **79.1% accuracy**. Full pipeline from data collection to deployment and improved from 73.4% to 79.1% through feature engineering and hyperparameter tuning.
-`Python` `Streamlit` `scikit-learn` `pandas`
-
-### [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code)
-Linked lists, stacks, queues, trees, and graphs which are implemented from scratch in C.
-`C`
-
-
-## 🎯 Currently
-- 🛠️ Building Hello Friend — a free mental health browser extension
-- 🌱 Learning NumPy, Deep Learning and Neural Networks
-- 🤖 Planning ContentShield AI — custom trained vision model for content detection
-- 🎬 Planning CineMatch — movie and series comparison and recommendation platform
+### 📦 [GitHub Activity Generator](https://github.com/vedantchouhan/github-activity-generator) · [![PyPI](https://img.shields.io/pypi/v/github-activity-generator?color=blue)](https://pypi.org/project/github-activity-generator/)
+A published CLI tool to automate and simulate realistic GitHub commit activity across custom date ranges. Supports multi-repository targeting, custom commit frequency patterns (uniform, weekday, burst, natural), dry-run previews, and zero-prompt JSON configs.
+- **Install:** `pip install github-activity-generator`
+- `Python` `Git` `CLI` `Packaging / PyPI`
   
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_vedant.tt_/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vedant.chouhan.7737/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chouhanvedant84@gmail.com)
+### ♟️ [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
+End-to-end machine learning application trained on **4,716 real games from my personal Chess.com history**. Built a complete pipeline covering ETL, feature engineering, and hyperparameter tuning to improve prediction accuracy from **73.4% to 79.1%**.
+- `Python` `Streamlit` `scikit-learn` `pandas` `Render`
+
+### 🛡️ [Hello Friend](https://github.com/vedantchouhan/hello-friend)
+A lightweight privacy-focused browser extension providing contextual interventions. Features a 3-layer detection architecture: domain blocklist, real-time search query analysis, and lightweight on-device AI. Zero telemetry or external data collection.
+- `JavaScript` `Chrome Extension API` `On-Device AI` `Privacy`
+
+### ⚡ [DSA 100 Days of Code](https://github.com/vedantchouhan/DSA_100-days-of-code)
+Zero-dependency, from-scratch implementations of core data structures and algorithms in C, including dynamic linked lists, stacks, queues, binary search trees, and graph traversal routines.
+- `C` `Memory Management` `Algorithms` `Data Structures`
+
+---
+
+## 🎯 Current Focus & Roadmap
+
+- 🧠 **Machine Learning:** Deepening Neural Network architectures, PyTorch, and Computer Vision.
+- 🛡️ **ContentShield AI:** Developing a custom-trained vision classifier for automated content moderation.
+- 🎬 **CineMatch:** Building a vector-similarity movie and series recommendation engine.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantchouhan019/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chouhanvedant84@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_vedant.tt_/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/vedant.chouhan.7737/)
