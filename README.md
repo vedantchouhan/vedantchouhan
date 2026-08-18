@@ -63,9 +63,9 @@ A published CLI tool to automate and simulate realistic GitHub commit activity a
 * **Install:** `pip install github-activity-generator`
 * `Python` `Git` `CLI` `Packaging / PyPI`
   
-### ♟️ [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://chess-win-predictor.onrender.com)
-End-to-end machine learning application trained on **4,716 real games from my personal Chess.com history**. Built a complete pipeline covering ETL, feature engineering, and hyperparameter tuning to improve prediction accuracy from **73.4% to 79.1%**.
-* `Python` `Streamlit` `scikit-learn` `pandas` `Render`
+### ♟️ [Chess Win Predictor](https://github.com/vedantchouhan/chess-win-predictor) · [Live App](https://vedantchouhan.github.io/chess-win-predictor/)
+End-to-end machine learning application trained on **3,827 real games from my personal Chess.com history**. Re-architected from a monolith into a decoupled web app (FastAPI backend + zero-latency CDN frontend). Engineered a Gradient Boosting pipeline and resolved temporal data leakage to achieve a rigorously tested **77.4% true accuracy**.
+* `Python` `FastAPI` `scikit-learn` `JavaScript` `Render`
 
 ### 🛡️ [Hello Friend](https://github.com/vedantchouhan/hello-friend)
 A lightweight privacy-focused browser extension providing contextual interventions. Features a 3-layer detection architecture: domain blocklist, real-time search query analysis, and lightweight on-device AI. Zero telemetry or external data collection.
