@@ -10,7 +10,6 @@
   <em>Building practical systems with real-world data — low-level fundamentals in C/C++, scalable ML in Python.</em>
 </p>
 
-[![PyPI Version](https://img.shields.io/pypi/v/github-activity-generator?color=blue&label=PyPI%20Package)](https://pypi.org/project/github-activity-generator/)
 
 
 ### 📊 GitHub & Problem-Solving Stats
